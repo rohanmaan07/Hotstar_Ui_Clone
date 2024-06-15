@@ -1,0 +1,9 @@
+.info{
+    position: absolute;
+    top: 25%;
+    color: rgb(243, 241, 241);
+    padding-top: 180px;
+    padding-left: 700px;
+    font-weight: 400;
+    font-size: large;
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+.search-container {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #000000;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+    
+}
+.search-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #0a0a0a;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: rgb(26, 26, 26);
+    opacity: 0.7;
+
+    
+}
+.search-container input[type="text"]::placeholder {
+    color: white; 
+}
